@@ -846,7 +846,7 @@ footer a{
     }
   
     h2 {
-      font-size: 32px;
+      font-size: 40px;
     }
 
     .hero .hero-title{
@@ -856,6 +856,9 @@ footer a{
     header{
         padding-top: 0;
     }
+
+
+        
   
     /* ---------- Navbar ---------- */
     
@@ -959,7 +962,7 @@ footer a{
     .services-section .services-row{
         flex-direction: column;
         gap: 70px;
-        padding: 0 70px;
+        padding: 0 40px;
     }
 
     .services-section .service{
@@ -971,7 +974,8 @@ footer a{
     }
 
     .service-title{
-        font-size: 24px;
+        font-size: 35px;
+        font-weight: 500;
     }
 
 
